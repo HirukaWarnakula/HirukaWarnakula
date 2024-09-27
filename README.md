@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/HirukaDinuthWarnakula) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/HirukaWarnakula)
 
-<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avishka777&" alt="avishka777" width="600"/></p>
+<p align="center">    <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="600"></p>
 
 
 # 💻 Tech Stack:
