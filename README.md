@@ -1,26 +1,73 @@
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/HirukaDinuthWarnakula) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/HirukaDinuthWarnakula) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/HirukaWarnakula)
-
-<p align="center">    <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="600"></p>
+# Hi there, I'm Hiruka Dinuth 👋 
 
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HirukaWarnakula&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=HirukaWarnakula&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HirukaWarnakula&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=HirukaWarnakula&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=DevOps%20%26%20Cloud%20Engineer&fontSize=40&animation=fadeIn" alt="Header" />
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=HirukaWarnakula&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://linkedin.com/in/HirukaWarnakula"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://facebook.com/HirukaDinuthWarnakula"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"></a>
+  <a href="https://instagram.com/HirukaDinuthWarnakula"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=HirukaWarnakula&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 👨‍💻 Professional Summary
+- 🎓 **BSc (Hons) in Information Technology** | **SLIIT** (2022 – 2025).
+- 🛠️ Specializing in **Computer Systems & Network Engineering**.
+- ☁️ **DevOps Enthusiast** | Focused on Infrastructure as Code (IaC), Linux Automation, and Containerization.
+- ⚡ **Current Sprint:** Documenting my journey through the **#100DaysOfKodeKloud** challenge.
+
+---
+
+### 🎓 Education
+* **Bachelor of Science (Hons) in Information Technology**
+    * *Sri Lanka Institute of Information Technology (SLIIT)* | 2022 — 2025
+    * **Focus:** Computer Systems, Network Engineering, Data Analysis, and Project Planning.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+| Category | Skills |
+| :--- | :--- |
+| **Orchestration** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) |
+| **Cloud** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white) |
+| **Observability** | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) |
+| **Network & OS** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Cisco](https://img.shields.io/badge/Cisco-049BCE?style=flat-square&logo=cisco&logoColor=white) |
+
+---
+
+### 📂 Featured DevOps Projects
+
+#### 🏗️ [Infrastructure Automation with Ansible](https://github.com/HirukaWarnakula/hiru-ansible-system-automation)
+- **Impact:** Automated user provisioning and security policies using Playbooks.
+- **Achievement:** Built a one-command monitoring stack deployment (Prometheus/Grafana).
+
+#### 📊 [Centralized Infrastructure Monitoring](https://github.com/HirukaWarnakula/hiru-prometheus-grafana-monitoring)
+- **Impact:** Real-time visibility into system health using Prometheus and Node Exporter.
+- **Achievement:** Designed interactive Grafana dashboards orchestrated with Docker Compose.
+
+#### ⚖️ [Scalable Nginx Load Balancer](https://github.com/HirukaWarnakula/hiru-docker-load-balancer)
+- **Impact:** Horizontal scaling of microservices to improve throughput and resilience.
+- **Tech:** Layer 7 Load Balancing, Python Flask, and Docker.
+
+---
+
+### 📊 GitHub Metrics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HirukaWarnakula&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="GitHub Stats" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HirukaWarnakula&theme=radical&border_radius=10" alt="GitHub Streak" height="180px" />
+</p>
+
+---
+
+### 📬 Connect with Me
+- 📍 **Gampaha, Sri Lanka**
+- 🤝 Open to collaborations on Network Engineering and DevOps projects.
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=HirukaWarnakula&icon=5&color=4" alt="Visitor Count" />
+</p>
