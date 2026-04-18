@@ -1,4 +1,4 @@
-# Hi there, I'm Hiruka Dinuth 👋 
+# Hi there, I'm Hiruka Warnakula 👋 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/HirukaWarnakula/HirukaWarnakula/main/devops-avatar.jpeg" width="220" style="border-radius: 50%;" alt="Hiruka Warnakula Avatar" />
