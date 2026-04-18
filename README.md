@@ -1,10 +1,10 @@
 # Hi there, I'm Hiruka Dinuth 👋 
 
-
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=DevOps%20%26%20Cloud%20Engineer&fontSize=40&animation=fadeIn" alt="Header" />
+  <img src="https://raw.githubusercontent.com/HirukaWarnakula/HirukaWarnakula/main/devops-avatar.jpeg" width="220" style="border-radius: 50%;" alt="Hiruka Warnakula Avatar" />
 </p>
+
+
 
 <p align="center">
   <a href="https://linkedin.com/in/HirukaWarnakula"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -16,7 +16,7 @@
 
 ### 👨‍💻 Professional Summary
 - 🎓 **BSc (Hons) in Information Technology** | **SLIIT** (2022 – 2025).
-- 🛠️ Specializing in **Computer Systems & Network Engineering**.
+- 🛠️ Specializing in **Information Technology**.
 - ☁️ **DevOps Enthusiast** | Focused on Infrastructure as Code (IaC), Linux Automation, and Containerization.
 - ⚡ **Current Sprint:** Documenting my journey through the **#100DaysOfKodeKloud** challenge.
 
